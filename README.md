@@ -5,7 +5,7 @@ Sempre gostei muito de lógica, acredito que foi por isso que tive tanto gosto p
 Ainda estou no início da minha segunda graduação mas já faço alguns cursos para aprender mais sobre linguagens de programação e gerenciamento ágil de projetos.
 Caso tenham interesse, deixo aqui meu linkedin.
 
-<a href=“https://www.linkedin.com/in/brenomra/“>![Badge](https://img.shields.io/static/v1?label=brenomra&message=linkedin&color=blue&style=flat-square&logo=linkedin)</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenomra/)](https://www.linkedin.com/in/brenomra/)
 
 
 > 26 anos | Vitória/ES
