@@ -1,5 +1,14 @@
-### Hi there 👋
+### Ei pessoal 👋 Meu nome é Breno e sejam bem-vindos ao meu perfil!
+Sou graduando em Análise e Desenvolvimento de Sistemas e já formado em Engenharia Mecânica.
+Sempre gostei muito de lógica, acredito que foi por isso que tive tanto gosto pela programação e é nessa área que desejo trabalhar :computer:.
 
+Ainda estou no início da minha segunda graduação mas já faço alguns cursos para aprender mais sobre linguagens de programação e gerenciamento ágil de projetos.
+Caso tenham interesse, deixo aqui meu linkedin.
+
+<a href=“https://www.linkedin.com/in/brenomra/“>![Badge](https://img.shields.io/static/v1?label=brenomra&message=linkedin&color=blue&style=flat-square&logo=linkedin)</a>
+
+
+> 26 anos | Vitória/ES
 <!--
 **brenomra/brenomra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
